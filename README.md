@@ -21,7 +21,10 @@ their minds often, it needs to be flexible regarding our pricing rules.
 
 Contained within this repository is a working React/Redux application which when running looks like this:
 
-![checkout image](https://cl.ly/3a3S3a2Z0E41/Image%202016-11-18%20at%207.29.00%20pm.png "Checkout Image")
+
+
+
+
 
 Clicking the product buttons adds items to the basket, the items in the basket are listed and
 the total is displayed.
@@ -38,12 +41,6 @@ To run it the steps should be:
 * `npm install`
 * `npm run start`
 
-## Submitting your solution
 
-Please send a zip archive containing your code (without the node_modules directory) and any relevant materials
-in an email along with your resume and motivations to jobs+front-end@textmaster.com, please add
-tech-test+front@textmaster.com in CC. **Please do not put your solutions on GitHub.**
+This solution doesn't have the node_modules directory because of size, you can downlaod the dependecies yourself.
 
-The purpose of this test is to verify your abilities to code and see how you architect an application.
-
-Finally, please note that even if you have questions about the test we will not answer them, do what you think is best.
