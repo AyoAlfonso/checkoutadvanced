@@ -13,7 +13,7 @@ class App extends Component {
           <h1>TextMaster Supermarket</h1>
         </div>
         <p className="app-intro">
-          Select Product to add to your basket :
+          Select Product to add to your basket :::::
         </p>
         <ProductSelection />
         <BasketItems />
